@@ -10,7 +10,7 @@
 Full playlist: <a href="https://www.youtube.com/playlist?list=PLqsewl9xsOjZoZ_0HeQxJ3w0vvTuQaa72">Link</a>
 
 All the sources used in the videos can be found on this repository: 
-https://github.com/memoriasIT/Assembly-Practice/tree/master/ARM%20Projects
+<a href="https://github.com/memoriasIT/Assembly-Practice/tree/master/ARM%20Projects">Repo link</a>
 
 <table>
   <tr>
