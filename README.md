@@ -9,6 +9,9 @@
 
 Full playlist: <a href="https://www.youtube.com/playlist?list=PLqsewl9xsOjZoZ_0HeQxJ3w0vvTuQaa72">Link</a>
 
+All the sources used in the videos can be found on this repository: 
+https://github.com/memoriasIT/Assembly-Practice/tree/master/ARM%20Projects
+
 <table>
   <tr>
     <th><a href="https://youtu.be/ZfWXKLYiDc4"><img width="33%" src="https://github.com/memoriasIT/ARM-VideoTutorials/blob/master/src/0.png"><br>Introducción al curso de ARM
